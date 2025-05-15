@@ -1,0 +1,2 @@
+Hi This is edited using VS code 
+while practising Git commands
